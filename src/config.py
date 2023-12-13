@@ -1,0 +1,14 @@
+# SCREEN
+WIDTH = 1425
+HEIGHT = 750
+FPS = 60
+
+
+white = (255, 255, 255)
+
+# PLAYER
+PLAYER_VEL = 5
+
+
+# PLATAFORMAS
+tile_size = 75
